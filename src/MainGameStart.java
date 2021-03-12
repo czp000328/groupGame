@@ -23,7 +23,7 @@ import javax.swing.border.TitledBorder;
 
 // 改1
 
-public class MainGame implements ApplicationListener {
+public class MainGameStart implements ApplicationListener {
     private float timer;
 
     // 纹理画布
@@ -46,7 +46,7 @@ public class MainGame implements ApplicationListener {
     private Sound sound;
 
 
-    private static final String TAG = MainGame.class.getSimpleName();
+    private static final String TAG = MainGameStart.class.getSimpleName();
 
     // 视口世界的宽高统使用 480 * 800, 并统一使用伸展视口（StretchViewport）
     public static final float WORLD_WIDTH = 1920;
