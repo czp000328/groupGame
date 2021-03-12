@@ -399,7 +399,7 @@ public class MainGameStart implements ApplicationListener {
         }
         if (sound != null) {
             sound.dispose();
-        }
+        } 
 
     }
 }
