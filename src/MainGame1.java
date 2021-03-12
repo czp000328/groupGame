@@ -17,7 +17,7 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.StretchViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
-
+// czp
 public class MainGame1 implements ApplicationListener {
     private Viewport viewport;
     private Camera camera;
