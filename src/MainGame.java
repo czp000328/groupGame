@@ -16,7 +16,7 @@ import com.badlogic.gdx.utils.viewport.StretchViewport;
 import com.badlogic.gdx.audio.Music;
 import com.badlogic.gdx.audio.Sound;
 
-// 改改
+// zky部分
 
 public class MainGame implements ApplicationListener {
 
