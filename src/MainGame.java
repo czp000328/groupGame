@@ -16,7 +16,7 @@ import com.badlogic.gdx.utils.viewport.StretchViewport;
 import com.badlogic.gdx.audio.Music;
 import com.badlogic.gdx.audio.Sound;
 
-// zky部分
+// 改1
 
 public class MainGame implements ApplicationListener {
 
@@ -88,7 +88,7 @@ public class MainGame implements ApplicationListener {
         // 背景音乐设置循环播放
         music.setLooping(true);
         // 设置音量, 值范围 0.0 ~ 1.0
-        music.setVolume((float) 0.06);
+        music.setVolume((float) 0.8);
 
         music.play();
 
